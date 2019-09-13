@@ -1,0 +1,22 @@
+.contacts {
+    display: flex;
+    flex-wrap:  wrap;
+    justify-content: center;
+}
+
+.card-email {
+ font-size: 0.8rem
+}
+.contact-card {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 300px;
+    flex-direction: column;
+}
+
+img {
+    max-width: 150px
+}
